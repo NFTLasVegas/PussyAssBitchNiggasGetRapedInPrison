@@ -1,0 +1,326 @@
+TOTAL APPS: 311
+HIDDEN: 205
+VISIBLE: 106
+
+====================================================================================================
+HIDDEN APPS (not visible to user)
+====================================================================================================
+Name                                          Bundle ID                                               Type     Container
+----------------------------------------------------------------------------------------------------
+AAUIViewService                               com.apple.AAUIViewService                               System   YES
+Accessibility                                 com.apple.AccessibilityUIServer                         Hidden   NO
+Accessibility Reader                          com.apple.accessibility.AccessibilityReader             System   YES
+AccessoryLiveActivities_AuthorizationAppSheet com.apple.chrono.AccessoryLiveActivities-AuthorizationAppSheet System   YES
+AccessoryNotificationsSourceSelection         com.apple.AccessoryNotifications.SourceSelection        System   YES
+AccessorySetupUI                              com.apple.AccessorySetupUI                              System   YES
+AccountAuthenticationDialog                   com.apple.AccountAuthenticationDialog                   System   YES
+AirDrop                                       com.apple.Sharing.AirDropUI                             System   YES
+AirPlay                                       com.apple.APSUIApp                                      System   YES
+Ambient Music                                 com.apple.AdaptiveMusicApp                              System   YES
+AMSUIAuthenticationViewService                com.apple.AMSUIAuthenticationViewService                System   YES
+App Clip                                      com.apple.ClipViewService                               System   YES
+AppDeletionUIHost                             com.apple.AppDeletionUIHost                             System   YES
+AppDistributionLaunchAngel                    com.apple.AppDistributionLaunchAngel                    System   YES
+Apple ID Setup                                com.apple.AppleIDSetupUIService                         System   YES
+Apple Media Services                          com.apple.AMSEngagementViewService                      System   YES
+AppleCashStickerPackHost                      com.apple.AppleCashStickerPackHost                      System   YES
+Apple TV Setup                                com.apple.TVSetupUIService                              System   YES
+AppProtectionUIHost                           com.apple.AppProtectionUIHost                           System   YES
+AppSSOUIService                               com.apple.AppSSOUIService                               System   YES
+AskToUIHost                                   com.apple.AskToUIHost                                   System   YES
+AuthenticationServicesUI                      com.apple.AuthenticationServicesUI                      System   YES
+AuthKitUIService                              com.apple.AuthKitUIService                              System   YES
+AVKitRoutingService                           com.apple.avkit.AVKitRoutingService                     System   YES
+AXUIViewService                               com.apple.AXUIViewService                               System   YES
+Background Activities                         com.apple.ActivityProgress.ActivityProgressUI           System   YES
+BacklinkIndicator                             com.apple.BacklinkIndicator                             System   YES
+Batteries                                     com.apple.Batteries                                     System   YES
+BrowserKitViewService                         com.apple.BrowserKitViewService                         System   YES
+BusinessActionSheet                           com.apple.BusinessActionSheet                           System   YES
+BusinessChatViewService                       com.apple.BusinessChatViewService                       System   YES
+Camera                                        com.apple.CarCamera                                     System   YES
+Camera                                        com.apple.ClarityCamera                                 System   YES
+CameraOverlayAngel                            com.apple.CameraOverlayAngel                            System   YES
+CarPlaySetup                                  com.apple.CarPlaySetupApp                               System   YES
+CarPlaySplashScreen                           com.apple.CarPlaySplashScreen                           System   YES
+CarPlayTemplateUIHost                         com.apple.CarPlayTemplateUIHost                         Hidden   NO
+CarPlayWallpaper                              com.apple.CarPlayWallpaper                              System   YES
+Cellular                                      com.apple.SIMSetupUIService                             System   YES
+Charge                                        com.apple.CarCharge                                     System   YES
+CheckerBoard                                  com.apple.CheckerBoard                                  System   NO
+CheckerBoardRemoteSetup                       com.apple.CBRemoteSetup                                 System   YES
+Check In                                      com.apple.SafetyMonitorApp                              System   YES
+CinematicFramingOnboardingUI                  com.apple.CMViewSrvc                                    System   YES
+ClarityBoard                                  com.apple.ClarityBoard                                  Hidden   NO
+Climate                                       com.apple.CarClimate                                    System   YES
+Clock                                         com.apple.ClockAngel                                    System   YES
+Closures                                      com.apple.CarClosures                                   System   YES
+Code Scanner                                  com.apple.BarcodeScanner                                System   YES
+ColorPickerUIService                          com.apple.UIKit.ColorPickerUIService                    System   YES
+CompanionViewService                          com.apple.CompanionViewService                          System   YES
+CompassCalibrationViewService                 com.apple.CompassCalibrationViewService                 System   YES
+Connection Assistant                          com.apple.SOSBuddy                                      System   YES
+ContactPhotoCarouselRemoteAlert               com.apple.ContactsUI.Carousel                           System   YES
+Contacts                                      com.apple.PeopleViewService                             System   YES
+Continuity                                    com.apple.sidecar                                       System   YES
+Continuity Camera                             com.apple.ContinuityCaptureShieldUI                     System   YES
+Control Nearby Devices                        com.apple.AXRemoteViewService                           System   YES
+CoreIDVUIService                              com.apple.coreidv.CoreIDVUIService                      System   YES
+CoreServicesUIAgent                           com.apple.CoreServicesUIAgent                           Hidden   NO
+Coverage Details                              com.apple.NewDeviceOutreachApp                          System   YES
+CTCarrierSpaceAuth                            com.apple.CTCarrierSpaceAuth                            System   YES
+CTKUIService                                  com.apple.ctkui                                         System   YES
+CTNotifyUIService                             com.apple.CTNotifyUIService                             System   YES
+DemoApp                                       com.apple.DemoApp                                       System   YES
+Diagnostics                                   com.apple.Diagnostics                                   System   YES
+Diagnostics Reporter                          com.apple.DiagnosticsReporter                           System   YES
+DiagnosticsService                            com.apple.DiagnosticsService                            System   YES
+DKPairingUIService                            com.apple.dockkit.pairinguiservice                      System   YES
+DockFolderViewService                         com.apple.DocumentManager.DockFolderViewService         System   YES
+DockKit                                       com.apple.dockkit.TrackingUIService                     System   YES
+Emoji Keyboard                                com.apple.StickerKit.StickerPickerService               System   YES
+Events                                        com.apple.EventViewService                              System   YES
+Events                                        com.apple.ShazamEventsApp                               System   YES
+Exposure Notifications                        com.apple.HealthENLauncher                              System   YES
+ExposureNotificationRemoteViewService         com.apple.PublicHealthRemoteUI                          System   YES
+EyeReliefUI                                   com.apple.EyeReliefUI                                   System   YES
+FaceTime                                      com.apple.FaceTimeLinkTrampoline                        System   YES
+Family                                        com.apple.AskPermissionUI                               System   YES
+Family                                        com.apple.family                                        System   NO
+Family Request                                com.apple.PeopleMessageService                          System   YES
+FamilyControlsAuthenticationUI                com.apple.FCAuthenticationUI                            System   YES
+FamilyExtensionHost                           com.apple.FamilyExtensionHost                           System   YES
+Feedback                                      com.apple.appleseed.FeedbackAssistant                   System   YES
+FeedbackRemoteView                            com.apple.feedback.remote                               System   YES
+FinanceUIService                              com.apple.FinanceUIService                              System   YES
+FindMyExtensionContainer                      com.apple.icloud.FindMyDevice.FindMyExtensionContainer  System   YES
+FindMyRemoteUIService                         com.apple.findmy.remoteuiservice                        System   YES
+FMDMagSafeSetupRemoteUI                       com.apple.FMDMagSafeSetupRemoteUI                       System   YES
+FontInstallViewService                        com.apple.FontInstallViewService                        System   YES
+FontPickerUIService                           com.apple.UIKit.FontPickerUIService                     System   YES
+Game Center                                   com.apple.gamecenter.widgets                            System   YES
+Game Center UI Service                        com.apple.gamecenter.GameCenterUIService                System   YES
+GameCenterRemoteAlert                         com.apple.GameCenterRemoteAlert                         System   YES
+GameOverlayUI                                 com.apple.GameOverlayUI                                 Hidden   YES
+Games                                         com.apple.GameTrampoline                                System   YES
+GuestUserHandoverSetup                        com.apple.GuestUserHandoverSetup                        System   YES
+Guided Access                                 com.apple.GAXApp                                        System   YES
+HealthENBuddy                                 com.apple.HealthENBuddy                                 System   YES
+HealthPrivacyService                          com.apple.HealthPrivacyService                          System   YES
+HearingApp                                    com.apple.HearingApp                                    System   YES
+Home                                          com.apple.Home.HomeUIService                            System   NO
+Home                                          com.apple.Home.HomeControlService                       System   YES
+HomeCaptiveViewService                        com.apple.HomeCaptiveViewService                        System   YES
+HomePod Setup                                 com.apple.HDSViewService                                System   YES
+iCloud                                        com.apple.CloudKit.ShareBear                            System   YES
+iCloud+                                       com.apple.icq                                           System   YES
+iMessageAppsViewService                       com.apple.iMessageAppsViewService                       System   YES
+InCallService                                 com.apple.InCallService                                 System   YES
+Input UI                                      com.apple.InputUI                                       System   YES
+IntelligentLight                              com.apple.siri.IntelligentLight                         Hidden   NO
+IOUIAngel                                     com.apple.IOUIAngel                                     Hidden   NO
+iTunes                                        com.apple.ios.StoreKitUIService                         System   YES
+Journaling Suggestions                        com.apple.MomentsUIService                              System   YES
+LimitedAccessPromptView                       com.apple.ContactsUI.LimitedAccessPromptView            System   YES
+Live Recognition                              com.apple.accessibility.MagnifierAngel                  System   YES
+Look Up                                       com.apple.datadetectors.DDActionsService                System   YES
+Mail                                          com.apple.MailCompositionService                        System   YES
+MBHelperApp                                   com.apple.MBHelperApp                                   System   YES
+Messages                                      com.apple.mobilesms.compose                             System   NO
+MobileReplayer                                com.apple.MobileReplayer                                System   YES
+MTLReplayer                                   com.apple.MTLReplayer                                   System   YES
+Music Recognition                             com.apple.musicrecognition                              System   YES
+MusicKitUI                                    com.apple.MusicKit.UI                                   Hidden   YES
+MusicUIService                                com.apple.MusicUIService                                System   NO
+MXUIService                                   com.apple.MXUIService                                   System   YES
+NetworkEndpointPickerUI                       com.apple.NetworkEndpointPickerUI                       System   YES
+NFCUISceneService                             com.apple.NFCUISceneService                             System   YES
+OTEAutomationTest                             com.APSQA.MetisTest                                     System   YES
+OverlayUI                                     com.apple.UIKit.OverlayUI                               Hidden   NO
+PassbookSecureUIService                       com.apple.PassbookSecureUIService                       System   YES
+PASViewService                                com.apple.PASViewService                                System   YES
+PDUIApp                                       com.apple.PDUIApp                                       System   YES
+Photos                                        com.apple.ClarityPhotos                                 System   YES
+PhotosUIService                               com.apple.Photos.PhotosUIService                        System   YES
+PosterBoard                                   com.apple.PosterBoard                                   System   YES
+PreBoard                                      com.apple.PreBoard                                      System   NO
+Print Center                                  com.apple.printcenter                                   System   YES
+Proximity Reader UI Service                   com.apple.ProximityReaderUIService                      System   YES
+ProximityControlViewService                   com.apple.PCViewService                                 System   YES
+Radio                                         com.apple.CarRadio                                      System   YES
+Recover Device UI extension                   com.apple.RecoverDeviceUI                               System   YES
+Recovery Assistant                            com.apple.Device-Recovery-Assistant                     System   NO
+Remote                                        com.apple.TVRemoteUIService                             System   YES
+RemoteiCloudQuotaUI                           com.apple.RemoteiCloudQuotaUI                           System   YES
+RemotePaymentPassActionsService               com.apple.RemotePassUIService                           System   YES
+ReplayKitAngel                                com.apple.replaykitangel                                System   YES
+Safari                                        com.apple.SafariViewService                             System   YES
+Screen Time                                   com.apple.ScreenTimeWidgetApplication                   System   YES
+ScreenContinuityShell                         com.apple.ScreenContinuityShell                         System   YES
+ScreenSharingViewService                      com.apple.ScreenSharingViewService                      System   YES
+Screenshots                                   com.apple.ScreenshotServicesService                     System   YES
+ScreenTimeUnlock                              com.apple.ScreenTimeUnlock                              System   YES
+SESUIServiceApp                               com.apple.SESUIServiceApp                               System   YES
+Settings                                      com.apple.CarPlaySettings                               System   YES
+Setup                                         com.apple.SharingViewService                            System   YES
+Setup                                         com.apple.HeadphoneProxService                          System   YES
+Setup                                         com.apple.CompanionSetup                                System   YES
+Setup                                         com.apple.NewDeviceSetupUIService                       System   YES
+Setup                                         com.apple.purplebuddy                                   System   NO
+SharedWebCredentialViewService                com.apple.SharedWebCredentialViewService                System   NO
+SharingUIService                              com.apple.SharingUIService                              System   YES
+Shortcuts                                     com.apple.ShortcutsUI                                   System   YES
+Shortcuts                                     com.apple.shortcuts.runtime                             System   YES
+Shortcuts                                     com.apple.systemactions                                 System   YES
+Sing                                          com.apple.ContinuitySingShieldUI                        System   YES
+Siri                                          com.apple.siri                                          System   YES
+Sleep                                         com.apple.Health.Sleep                                  System   YES
+SleepLockScreen                               com.apple.SleepLockScreen                               System   YES
+SLYahooAuth                                   com.apple.social.SLYahooAuth                            System   NO
+SoftwareUpdateUIService                       com.apple.susuiservice                                  System   NO
+Spotlight                                     com.apple.Spotlight                                     System   NO
+SpringBoardEducation                          com.apple.SpringBoardEducation                          System   YES
+Step-by-Step Help                             com.apple.SupportFlow                                   System   YES
+StoreDemoViewService                          com.apple.StoreDemoViewService                          System   YES
+StoreKitUISceneService                        com.apple.StoreKitUISceneService                        System   YES
+SystemPaperViewService                        com.apple.SystemPaperViewService                        System   YES
+SystemVoiceAssistant                          com.apple.SystemVoiceAssistant                          System   YES
+Tap to Pay on iPhone                          com.apple.ProximityReaderSceneUI                        System   YES
+TDGSharingViewService                         com.apple.TDGSharingViewService                         System   YES
+TirePressure                                  com.apple.CarTirePressure                               System   YES
+Transfer to Android                           com.apple.Migration                                     System   YES
+Trip                                          com.apple.CarTrip                                       System   YES
+TrustMe                                       com.apple.TrustMe                                       System   NO
+TV Provider                                   com.apple.VSViewService                                 System   YES
+TVAccessViewService                           com.apple.TVAccessViewService                           System   YES
+User Authentication                           com.apple.LocalAuthenticationUIService                  System   YES
+Vehicle                                       com.apple.AutoSettings                                  System   YES
+Visual Intelligence                           com.apple.VisualIntelligenceCamera                      System   YES
+Wallet                                        com.apple.CredentialSharingService                      System   YES
+Wallet                                        com.apple.SubcredentialUIService                        System   YES
+Wallet                                        com.apple.PassbookUISceneService                        System   YES
+Wallet                                        com.apple.FinanceStub                                   System   YES
+Wallet                                        com.apple.PassbookUIService                             System   YES
+WebContentRestrictionsUI                      com.apple.WebContentFilter.remoteUI.WebContentAnalysisUI System   YES
+WebSheet                                      com.apple.WebSheet                                      System   YES
+WidgetRenderer_Activities                     com.apple.chrono.WidgetRenderer-Activities              System   YES
+WidgetRenderer_CarPlay                        com.apple.chrono.WidgetRenderer-CarPlay                 System   YES
+WidgetRenderer_Default                        com.apple.chrono.WidgetRenderer-Default                 System   YES
+WidgetRenderer_WatchFaces                     com.apple.chrono.WidgetRenderer-WatchFaces              System   YES
+WorkoutRemoteViewService                      com.apple.WorkoutRemoteViewService                      System   YES
+Writing Tools                                 com.apple.WritingToolsUIService                         System   YES
+Xcode Previews                                com.apple.PreviewShell                                  System   YES
+‎                                             com.apple.MediaRemoteUI                                 System   YES
+‎                                             com.apple.MediaRemoteUIService                          System   YES
+
+====================================================================================================
+VISIBLE APPS (shown to user)
+====================================================================================================
+Name                                          Bundle ID                                               Type     Container
+----------------------------------------------------------------------------------------------------
+Ads Manager                                   com.facebook.MAdMan                                     User     YES
+Airbnb                                        com.airbnb.app                                          User     YES
+Amazon                                        com.amazon.Amazon                                       User     YES
+App Store                                     com.apple.AppStore                                      System   YES
+Apple Store                                   com.apple.store.Jolly                                   User     YES
+AssistiveTouch                                com.apple.assistivetouchd                               Hidden   NO
+Authenticator                                 com.google.Authenticator                                User     YES
+BluetoothUIService                            com.apple.BluetoothUIService                            Hidden   NO
+Books                                         com.apple.iBooks                                        System   YES
+Breeze                                        com.hubspot.BreezeRelease                               User     YES
+Calculator                                    com.apple.calculator                                    System   YES
+Calendar                                      com.apple.mobilecal                                     System   YES
+Camera                                        com.apple.camera                                        System   NO
+CarPlay                                       com.apple.CarPlayApp                                    Hidden   NO
+Chase                                         com.chase                                               User     YES
+Chrome                                        com.google.chrome.ios                                   User     YES
+Clock                                         com.apple.mobiletimer                                   System   YES
+Co — Star                                     com.costarastrology.costar-mobile                       User     YES
+Compass                                       com.apple.compass                                       System   YES
+Contacts                                      com.apple.MobileAddressBook                             System   YES
+Cosmo                                         com.codesignal.cosmo                                    User     YES
+DeviceOMatic                                  com.apple.DeviceOMatic                                  Hidden   NO
+Drive                                         com.google.Drive                                        User     YES
+eBay                                          com.ebay.iphone                                         User     YES
+Eraser                                        kr.co.noonus.BackgroundEraser                           User     YES
+EscrowSecurityAlert                           com.apple.EscrowSecurityAlert                           Hidden   NO
+Facebook                                      com.facebook.Facebook                                   User     YES
+FaceTime                                      com.apple.facetime                                      System   YES
+Facetune                                      com.lightricks.Facetune2                                User     YES
+Fastmail                                      com.fastmail.FastMail                                   User     YES
+FedEx                                         com.fedex.mobile.home                                   User     YES
+Field Test                                    com.apple.FTMInternal                                   System   YES
+Files                                         com.apple.DocumentsApp                                  System   YES
+Find My                                       com.apple.findmy                                        System   YES
+Fing                                          overlook.fing                                           User     YES
+Fitness                                       com.apple.Fitness                                       System   YES
+Freeform                                      com.apple.freeform                                      System   YES
+FullKeyboardAccess                            com.apple.fullkeyboardaccess                            Hidden   YES
+Games                                         com.apple.games                                         System   YES
+GarageBand                                    com.apple.mobilegarageband                              User     YES
+Glam                                          com.mynalabs.saidit                                     User     YES
+Gmail                                         com.google.Gmail                                        User     YES
+Google Calendar                               com.google.calendar                                     User     YES
+HangHUD                                       com.apple.HangHUD                                       Hidden   NO
+Health                                        com.apple.Health                                        System   YES
+HOLOFAN                                       com.dmz.holofan                                         User     YES
+Home                                          com.apple.Home                                          System   YES
+HubSpot                                       com.hubspot.CRMAppRelease                               User     YES
+iMovie                                        com.apple.iMovie                                        User     YES
+Instagram                                     com.burbn.instagram                                     User     YES
+iTunes Store                                  com.apple.MobileStore                                   System   YES
+Journal                                       com.apple.journal                                       System   YES
+Keynote                                       com.apple.Keynote                                       User     YES
+Live Captions                                 com.apple.livetranscriptionui                           Hidden   NO
+Magnifier                                     com.apple.Magnifier                                     System   YES
+Mail                                          com.apple.mobilemail                                    System   YES
+Maps                                          com.apple.Maps                                          System   YES
+Measure                                       com.apple.measure                                       System   YES
+Messages                                      com.apple.MobileSMS                                     System   YES
+Messenger                                     com.facebook.Messenger                                  User     YES
+MoneyWiz                                      com.moneywiz.personalfinance                            User     YES
+Music                                         com.apple.Music                                         System   YES
+Navy Federal                                  org.navyfederal.nfcuforiphone                           User     YES
+News                                          com.apple.news                                          System   YES
+Notes                                         com.apple.mobilenotes                                   System   YES
+Numbers                                       com.apple.Numbers                                       User     YES
+Pages                                         com.apple.Pages                                         User     YES
+Passwords                                     com.apple.Passwords                                     System   YES
+Phone                                         com.apple.mobilephone                                   System   YES
+Photos                                        com.apple.mobileslideshow                               System   NO
+Playground                                    com.apple.GenerativePlaygroundApp                       System   YES
+Podcasts                                      com.apple.podcasts                                      System   YES
+Preview                                       com.apple.Preview                                       System   YES
+Reminders                                     com.apple.reminders                                     System   YES
+Remote.com                                    com.remote.employ                                       User     YES
+Safari                                        com.apple.mobilesafari                                  System   YES
+ScreenSharingServer                           com.apple.screensharingserver                           Hidden   NO
+Settings                                      com.apple.Preferences                                   System   NO
+SHEIN                                         zzkko.com.ZZKKO                                         User     YES
+Shortcuts                                     com.apple.shortcuts                                     System   YES
+ShortcutsActions                              com.apple.ShortcutsActions                              Hidden   NO
+Signal                                        org.whispersystems.signal                               User     YES
+Slack                                         com.tinyspeck.chatlyio                                  User     YES
+Snapchat                                      com.toyopagroup.picaboo                                 User     YES
+SpringBoard                                   com.apple.springboard                                   Hidden   NO
+Stocks                                        com.apple.stocks                                        System   YES
+Strongbox                                     com.markmcguill.strongbox                               User     YES
+SystemIntents                                 com.apple.SystemIntents                                 Hidden   NO
+T-Life                                        com.tmobile.tuesdays                                    User     YES
+Tesla                                         com.teslamotors.TeslaApp                                User     YES
+Threads                                       com.burbn.barcelona                                     User     YES
+TikTok                                        com.zhiliaoapp.musically                                User     YES
+Tips                                          com.apple.tips                                          System   YES
+Token                                         com.casewallet.signet                                   User     YES
+Translate                                     com.apple.Translate                                     System   YES
+TV                                            com.apple.tv                                            System   YES
+Voice Control                                 com.apple.commandandcontrol                             Hidden   NO
+Voice Memos                                   com.apple.VoiceMemos                                    System   YES
+VoiceOver                                     com.apple.VoiceOverTouch                                Hidden   YES
+Wallet                                        com.apple.Passbook                                      System   YES
+Watch                                         com.apple.Bridge                                        System   YES
+Weather                                       com.apple.weather                                       System   YES
+Web                                           com.apple.webapp                                        System   YES
+X                                             com.atebits.Tweetie2                                    User     YES
+YouTube                                       com.google.ios.youtube                                  User     YES
+‎WhatsApp                                     net.whatsapp.WhatsApp                                   User     YES

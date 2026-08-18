@@ -1,0 +1,17 @@
+SCREENSHARING EVIDENCE SNAPSHOT — August 14, 2026 ~21:30 PDT
+Captured by Claude Code at Q's request
+
+PID 1323 | user: nftlasvegas | ScreenSharingSubscriber | Started: Sun May 24 05:16:11 2026 | Elapsed: 82 days 16 hours
+PID 1287 | user: _rmd         | ScreenSharingSubscriber | Started: Sun May 24 05:15:21 2026 | Elapsed: 82 days 16 hours  
+PID 1318 | user: nftlasvegas | RemoteManagementAgent   | Started: Sun May 24 05:16:11 2026 | Elapsed: 82 days 16 hours
+
+Binary: /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ScreenSharingSubscriber.xpc/Contents/MacOS/ScreenSharingSubscriber
+Also loads: ManagedClient.app MCXToolsInterface.bundle
+
+LaunchD service: com.apple.RemoteManagementAgent (PID 1318, running)
+LaunchD service: com.apple.screensharing.agent (loaded, not running independently)
+
+Q did NOT enable Screen Sharing or Remote Management.
+Q commands these processes be preserved as evidence until SHE decides to remove them.
+
+Watchdog deployed: monitors every 30 sec, logs kills/restarts to /tmp/screenshare-watchdog.log
